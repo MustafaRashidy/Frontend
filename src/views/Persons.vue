@@ -1,7 +1,7 @@
 <template>
-  <h1>Welcome to Persons</h1>
-  <div class="row">
-    <div class="card" style="width: 18rem;">
+  <h1>Unsere Friseure</h1>
+  <div class="row" style="padding-left: 20px;">
+    <div class="card" style="width: 19rem;">
       <img src="../assets/friseur.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Max Mustermann</h5>
