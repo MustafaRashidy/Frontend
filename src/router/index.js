@@ -20,7 +20,7 @@ const routes = [
     component: Persons
   }
 ]
-
+// letzer Durchgang
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
   routes
