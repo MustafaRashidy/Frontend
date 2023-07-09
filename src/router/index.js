@@ -32,7 +32,7 @@ const routes = [
     component: Friseur2View
   }
 ]
-
+// letzer Durchgang
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
   routes
